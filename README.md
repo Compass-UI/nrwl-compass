@@ -9,6 +9,10 @@
 
 `npm install -g @nrwl/schematics`
 
+# Angular CLI
+
+`gemini-david 🌴  ng g lib --help`
+
 # Myworkspacename
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
